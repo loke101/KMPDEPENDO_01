@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">
+        <light>0x1B5E20FF</light>
+        <dark>0x81C784FF</dark>
+    </color>
+
+    <color name="backColor">#54008C</color>
+    <color name="blackOff">#254E70</color>
+
+    <color name="undeliveredEndColor">#f75464</color>
+    <color name="undeliveredStartColor">#99013f</color>
+
+    <color name="notAttemeptedEndColor">#763A8E</color>
+    <color name="notAttemeptedStartColor">#3E0569</color>
+
+    <color name="deliveredEndColor">#04C300</color>
+    <color name="deliveredStartColor">#005412</color>
+
+    <color name="totalEndColor">#0565D0</color>
+    <color name="totalStartColor">#022281</color>
+
+    <color name="cardViewBack">#fafafa</color>
+
+    <color name="homeAmount">#7D96</color>
+</resources>
+
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="hello_world">Hello moko-resources World</string>
+    <string name="dependo" translatable="false">DEPENDO</string>
+    <string name="welcome_to" translatable="false">Welcome to</string>
+    <string name="stc_riders_app" translatable="false">DEPENDO RIDER</string>
+    <string name="please_sign_in_to_continue" translatable="false">Please Sign in to Continue</string>
+    <string name="enter_your_mobile_number" translatable="false">Enter Your Mobile Number</string>
+</resources>

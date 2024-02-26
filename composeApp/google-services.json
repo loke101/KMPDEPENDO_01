@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495044031604",
+    "project_id": "dependockmp",
+    "storage_bucket": "dependockmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495044031604:android:8c89acb73a34dcb6bb4d21",
+        "android_client_info": {
+          "package_name": "com.rider.shipatpl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3wZo13TEyKKTq45Rb5zNeC8sQ4vYmC3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
