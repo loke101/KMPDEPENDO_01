@@ -14,6 +14,7 @@ import okio.Path.Companion.toPath
 // In the common source set:
 expect suspend fun encrypt(data:String):String
 expect suspend fun decrypt(data: String):String
+
 expect suspend fun getFcmToken():String
 expect fun dataStorePreferences(
     corruptionHandler: ReplaceFileCorruptionHandler<Preferences>?,

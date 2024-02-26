@@ -1,3 +1,5 @@
+import org.gradle.kotlin.dsl.maven
+
 rootProject.name = "KMP-App-Template"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
@@ -19,7 +21,10 @@ dependencyResolutionManagement {
 
 
     }
+
+
 }
 
 include(":composeApp")
+
 

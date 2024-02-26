@@ -96,7 +96,8 @@ kotlin {
             implementation("dev.gitlive:firebase-common:1.8.1")// This line
             implementation("dev.gitlive:firebase-installations:1.11.1")
             implementation("dev.gitlive:firebase-crashlytics:1.11.1")
-//            implementation (project( ":crypto-trunk", "jvmDefault"))
+
+//            implementation (project( ":kmpFor"))
 
         }
     }
@@ -140,6 +141,8 @@ android {
     dependencies {
         debugImplementation(libs.compose.ui.tooling)
         implementation("com.google.firebase:firebase-common-ktx:20.3.3")
+
+
 
 
 
